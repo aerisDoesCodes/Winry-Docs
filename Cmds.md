@@ -16,9 +16,16 @@
 <p><strong>Images</strong></p>
 <ul>
   <li><code class="highlighter-rouge">w!anime    :: Send's random images of anime from Reddit</code></li>
+  <li><code class="highlighter-rouge">w!bunny    :: Send's random catsu from /r/cutebunnies</code></li>
 </ul>
 
-<p><strong>Images</strong></p>
+<p><strong>Fun</strong></p>
+<ul>
+  <li><code class="highlighter-rouge">w!ascii    :: Convert text to ascii.</code></li>
+  <li><code class="highlighter-rouge">w!password    :: Generates random password.</code></li>
+</ul>
+
+<p><strong>Utility</strong></p>
 <ul>
   <li><code class="highlighter-rouge">w!info    :: Show's a background story how bot was made.</code></li>
   <li><code class="highlighter-rouge">w!invite    :: You like me, Invite me.</code></li>
@@ -34,6 +41,7 @@
   <li><code class="highlighter-rouge">w!boobs    :: Send's random boobs from http://api.oboobs.ru/boobs/noise/</code></li>
   <li><code class="highlighter-rouge">w!neko   :: Send's random neko from https://nekos.life/api/v2/img/neko</code></li>
   <li><code class="highlighter-rouge">w!pantsu    :: Send's random pantsu from /r/pantsu</code></li>
+  <li><code class="highlighter-rouge">w!catsu    :: Send's random catgirls from /r/cat_girls</code></li>
   <li><code class="highlighter-rouge">w!pussy   :: Send's random pussy from /r/pussy</code></li>
   <li><code class="highlighter-rouge">w!rule34    :: Send's random rule34 from /r/rule34.</code></li>
   <li><code class="highlighter-rouge">w!snap    :: Send's random Snapchat from /r/NSFW_Snapchat</code></li>
