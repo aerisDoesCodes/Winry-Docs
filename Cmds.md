@@ -31,7 +31,8 @@
   <li><code class="highlighter-rouge">w!invite    :: You like me, Invite me.</code></li>
   <li><code class="highlighter-rouge">w!mylevel   :: Tells you your permission level for the current message location.</code></li>
   <li><code class="highlighter-rouge">w!ping    :: Checks bot response time.</code></li>
-  <li><code class="highlighter-rouge">w!stats    :: Gives some useful bot statistics</code></li>
+  <li><code class="highlighter-rouge">w!stats    :: Gives some useful bot statistics.</code></li>
+  <li><code class="highlighter-rouge">w!serverinfo    :: Show's statistic about the server.</code></li>
   <li><code class="highlighter-rouge">w!updatelogs    :: Check's the Winry's updates.</code></li>
 </ul>
 
@@ -46,6 +47,11 @@
   <li><code class="highlighter-rouge">w!rule34    :: Send's random rule34 from /r/rule34.</code></li>
   <li><code class="highlighter-rouge">w!snap    :: Send's random Snapchat from /r/NSFW_Snapchat</code></li>
   <li><code class="highlighter-rouge">w!teen    :: Send's random teen from /r/legalteens.</code></li>
+</ul>
+
+<p><strong>System</strong></p>
+<ul>
+  <li><code class="highlighter-rouge">w!set    :: View or change settings for your server.</code></li>
 </ul>
 
 
